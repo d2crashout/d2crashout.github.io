@@ -1,11 +1,11 @@
-name: remote ssh command
+name: Deploy to Devtunnels
 on: [push]
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: executing remote ssh commands using password
+      - name: SSH to machine and start devtunnels
         uses: appleboy/ssh-action@v1.2.0
         with:
           host: ${{ secrets.HOST }}
