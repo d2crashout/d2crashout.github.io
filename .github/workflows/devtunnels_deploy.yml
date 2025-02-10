@@ -5,14 +5,14 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: SSH to machine and start devtunnels
-        uses: appleboy/ssh-action@v1.2.0
-        with:
-          host: ${{ secrets.HOST }}
-          username: WEBSERVER\abhim
-          password: ${{ secrets.PASSWORD }}
-          port: ${{ secrets.PORT }}
-          script: whoami
+      # - name: SSH to machine and start devtunnels
+        # uses: appleboy/ssh-action@v1.2.0
+        # with:
+          # host: ${{ secrets.HOST }}
+          # username: WEBSERVER\abhim
+          # password: ${{ secrets.PASSWORD }}
+          # port: ${{ secrets.PORT }}
+          # script: whoami
       - name: ls -a via ssh
         uses: garygrossgarten/github-action-ssh@release
         with:
