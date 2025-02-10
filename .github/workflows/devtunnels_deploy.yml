@@ -13,3 +13,11 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: whoami
+      - name: ls -a via ssh
+        uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: whoami
+          host: ${{ secrets.HOST }}
+          username: garygrossgarten
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT]}}
