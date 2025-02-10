@@ -20,4 +20,4 @@ jobs:
           host: ${{ secrets.HOST }}
           username: garygrossgarten
           password: ${{ secrets.PASSWORD }}
-          port: ${{ secrets.PORT]}}
+          port: ${{ secrets.PORT}}
