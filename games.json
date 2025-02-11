@@ -1,6 +1,24 @@
 {
     "games": [
         {
+            "name": "scratch_chess",
+            "fName": "Scratch Chess",
+            "description": "Fun strategy game where you are the king of an army, and have to trap the other king to win.",
+            "image": "/assets/images/game_covers/scratch_chess.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/scratch/ch/"
+                }
+            ],
+            "tags": [
+                "scratch",
+                "strategy",
+                "classic"
+            ]
+        },
+        {
             "name": "penguin_platformer",
             "fName": "Penguin Platformer (Beta)",
             "description": "Addictive platformer game where you play as a penguin trying to do parkour.",
