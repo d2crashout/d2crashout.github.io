@@ -1,6 +1,24 @@
 {
     "games": [
         {
+            "name": "penguin_platformer",
+            "fName": "Penguin Platformer (Beta)",
+            "description": "Addictive platformer game where you play as a penguin trying to do parkour.",
+            "image": "/assets/images/game_covers/cookie_clicker.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/scratch/pp/"
+                }
+            ],
+            "tags": [
+                "scratch",
+                "platformer",
+                "physics"
+            ]
+        },
+        {
             "name": "cookie_clicker",
             "fName": "Cookie Clicker",
             "description": "Addictive idle game where you bake cookies by clicking and upgrading your production",
