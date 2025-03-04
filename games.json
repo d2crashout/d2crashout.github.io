@@ -1,6 +1,24 @@
 {
     "games": [
         {
+            "name": "color_crusade",
+            "fName": "Color Crusade",
+            "description": "Fun strategy game where you have to fight off increasingly difficult waves of enemies.",
+            "image": "/assets/images/game_covers/scratch_chess.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/scratch/cc/"
+                }
+            ],
+            "tags": [
+                "scratch",
+                "strategy",
+                "indie"
+            ]
+        },
+        {
             "name": "scratch_chess",
             "fName": "Scratch Chess",
             "description": "Fun strategy game where you are the king of an army, and have to trap the other king to win.",
