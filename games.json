@@ -1,6 +1,43 @@
 {
     "games": [
         {
+            "name": "ovo_two",
+            "fName": "OVO 2",
+            "description": "The sequel to a fast-paced platformer where you navigate through challenging levels.",
+            "image": "/assets/images/game_covers/ovo_two.png",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/ovo2/"
+                }
+            ],
+            "tags": [
+                "physics",
+                "indie",
+                "platformer"
+            ]
+        },
+        {
+            "name": "ovo_modded",
+            "fName": "OVO Modded",
+            "description": "A fast-paced platformer where you navigate through challenging levels. With mods.",
+            "image": "/assets/images/game_covers/ovo_modded.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/ovomodded/"
+                }
+            ],
+            "tags": [
+                "physics",
+                "indie",
+                "platformer",
+                "modded"
+            ]
+        },
+        {
             "name": "color_crusade",
             "fName": "Color Crusade",
             "description": "Fun strategy game where you have to fight off increasingly difficult waves of enemies.",
