@@ -2,6 +2,10 @@
     --glow-color: gold;
 }
 
+#top-header {
+    background-color: #000000;
+    color: #000000;
+}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
