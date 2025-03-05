@@ -2,6 +2,9 @@
     --glow-color: gold;
 }
 
+.buttons {
+    color: #ECECEC;
+}
 #top-header {
     background-color: #000000;
     color: #000000;
