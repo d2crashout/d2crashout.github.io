@@ -3,7 +3,7 @@
 }
 
 .buttons {
-    color: #ECECEC;
+    color: #545454;
 }
 #top-header {
     background-color: #000000;
@@ -30,7 +30,7 @@ head {
 
 header h1 {
     text-align: center;
-    color: #ECECEC;
+    color: #545454;
     background-color: #000000;
     margin: 0;
     font-size: 48px;
@@ -590,7 +590,7 @@ button#sort, button#pickforme {
     }
     .toggle-btn{
         margin: 0px;
-        color: #ECECEC;
+        color: #545454;
     }
     .action-button-row button{
         margin: 0px !important;
