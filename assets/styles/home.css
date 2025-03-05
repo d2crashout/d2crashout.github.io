@@ -8,6 +8,9 @@ body {
     padding: 0;
     background-color: #000000;
 }
+head {
+    background-color: #000000;
+}
 .hamburger{
     display: none;
 }
