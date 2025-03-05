@@ -587,6 +587,7 @@ button#sort, button#pickforme {
     }
     .toggle-btn{
         margin: 0px;
+        color: #ECECEC;
     }
     .action-button-row button{
         margin: 0px !important;
