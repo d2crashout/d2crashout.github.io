@@ -1,6 +1,23 @@
 {
     "games": [
         {
+            "name": "proof",
+            "fName": "HI VANSH",
+            "description": "Vansh, this is my website.",
+            "image": "/assets/images/game_covers/me.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/proof"
+                }
+            ],
+            "tags": [
+                "proof",
+                "vansh"
+            ]
+        },
+        {
             "name": "color_crusade",
             "fName": "Color Crusade",
             "description": "Fun strategy game where you have to fight off increasingly difficult waves of enemies.",
