@@ -3,7 +3,7 @@
 }
 
 .buttons {
-    color: #545454;
+    background-color: #545454;
 }
 #top-header {
     background-color: #000000;
@@ -254,7 +254,7 @@ header.shadow {
     border: 1px solid #ccc;
     font-size: 16px;
     box-sizing: border-box;
-    color: #545454;
+    background-color: #545454;
 }
 
 #searchBox:focus {
@@ -590,7 +590,7 @@ button#sort, button#pickforme {
     }
     .toggle-btn{
         margin: 0px;
-        color: #545454;
+        background-color: #545454;
     }
     .action-button-row button{
         margin: 0px !important;
