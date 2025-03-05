@@ -2,8 +2,13 @@
     --glow-color: gold;
 }
 
-.buttons {
+#pickforme {
     background-color: #545454;
+    color: #545454;
+}
+#sort {
+    background-color: #545454;
+    color: #545454;
 }
 #top-header {
     background-color: #000000;
