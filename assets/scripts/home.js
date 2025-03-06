@@ -218,7 +218,7 @@ try {
         
         createPopup({
             title: 'Hiring!',
-            message: "We are hiring! We are looking for interns to help add games and manage the community.",
+            message: "We are hiring! We are looking for interns to help add games!",
             cta: {
                 text: "Apply",
                 link: "https://forms.gle/KN7CCoY5UTUB4ELZ6"
