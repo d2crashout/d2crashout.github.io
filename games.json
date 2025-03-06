@@ -1,6 +1,25 @@
 {
     "games": [
         {
+            "name": "a_dance_of_fire_and_ice",
+            "fName": "A Dance of Fire and Ice",
+            "description": "A fun game where you have to slice fruit and avoid bombs for points.",
+            "image": "/assets/images/game_covers/fire_and_ice.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/dfi/"
+                }
+            ],
+            "tags": [
+                "reaction",
+                "rhythm",
+                "classic",
+                "timing"
+            ]
+        },
+        {
             "name": "fruit_ninja",
             "fName": "Fruit Ninja",
             "description": "A fun game where you have to slice fruit and avoid bombs for points.",
@@ -18,7 +37,6 @@
                 "classic"
             ]
         },
-
         {
             "name": "1v1lol",
             "fName": "1v1.Lol",
