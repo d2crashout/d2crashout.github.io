@@ -1,6 +1,26 @@
 {
     "games": [
         {
+            "name": "1v1lol",
+            "fName": "1v1.Lol",
+            "description": "A fun shooting game similar to Fortnite, but on the web.",
+            "image": "/assets/images/game_covers/1v1lol.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/1v1lol/"
+                }
+            ],
+            "tags": [
+                "shooter",
+                "skill",
+                "action",
+                "strategy",
+                "fighting"
+            ]
+        },
+        {
             "name": "ovo_two",
             "fName": "OVO 2",
             "description": "The sequel to a fast-paced platformer where you navigate through challenging levels.",
