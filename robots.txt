@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 # Primary sitemap
-Sitemap: https://ccported.github.io/sitemap.xml
+Sitemap: https://arandomdev12.github.io/sitemap.xml
 
-Host: ccported.github.io
+Host: arandomdev12.github.io
