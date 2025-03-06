@@ -6,6 +6,8 @@ localList = [
     'cock',
     'cunt',
     'dildo',
+    'douche',
+    'douchebag',
     'fag',
     'fuck',
     'hell',
