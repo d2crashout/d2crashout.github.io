@@ -237,6 +237,24 @@
             ]
         },
         {
+            "name": "slope3",
+            "fName": "Slope 3",
+            "description": "Navigate a ball through a neon obstacle course in this fast-paced reaction game.",
+            "image": "/assets/images/game_covers/slope3.png",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/sl3/"
+                }
+            ],
+            "tags": [
+                "skill",
+                "reaction",
+                "arcade"
+            ]
+        },
+        {
             "name": "nes_emulator",
             "fName": "NES Emulator",
             "description": "Experience the nostalgia of classic NES games with this online emulator.",
