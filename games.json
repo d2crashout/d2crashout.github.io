@@ -313,7 +313,7 @@
         {
             "name": "minecraft",
             "fName": "Minecraft",
-            "description": "Explore and build in a blocky world with this online port of the popular game.",
+            "description": "Explore and build in a blocky world with this online port of the popular game, Minecraft.",
             "image": "/assets/images/game_covers/minecraft1_5_2.jpg",
             "online": true,
             "links": [
