@@ -1,6 +1,24 @@
 {
     "games": [
         {
+            "name": "agonia",
+            "fName": "Agonia",
+            "description": "A fun rpg game that is playable on the web",
+            "image": "/assets/images/game_covers/agonia.jpeg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/ag/index.html"
+                }
+            ],
+            "tags": [
+                "RPG",
+                "strategy",
+                "adventure"
+            ]
+        },
+        {
             "name": "ovo_two",
             "fName": "OVO 2",
             "description": "The sequel to a fast-paced platformer where you navigate through challenging levels.",
