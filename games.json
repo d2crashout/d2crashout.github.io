@@ -1,6 +1,25 @@
 {
     "games": [
         {
+            "name": "fruit_ninja",
+            "fName": "Fruit Ninja",
+            "description": "A fun game where you have to slice fruit and avoid bombs for points.",
+            "image": "/assets/images/game_covers/fruit_ninja.png",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/fn/"
+                }
+            ],
+            "tags": [
+                "skill",
+                "arcade",
+                "classic"
+            ]
+        },
+
+        {
             "name": "1v1lol",
             "fName": "1v1.Lol",
             "description": "A fun shooting game similar to Fortnite, but on the web.",
