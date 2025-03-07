@@ -68,7 +68,7 @@ try {
     let query = new URLSearchParams(window.location.search);
     let cachedRomsJSON = null;
     let cachedHotOrder = [];
-    let sortState = 0;
+    let sortState = 3;
     let cardsCache = [];
 
     searchInput.value = "";
