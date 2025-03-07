@@ -68,7 +68,7 @@ try {
     let query = new URLSearchParams(window.location.search);
     let cachedRomsJSON = null;
     let cachedHotOrder = [];
-    let sortState = 3;
+    let sortState = 0;
     let cardsCache = [];
 
     searchInput.value = "";
@@ -406,7 +406,7 @@ try {
             cardsContainer.appendChild(card);
         });
     }
-    async function input(sortState = 3) {
+    async function input(sortState = 0) {
         log(`Searching for ${searchInput.value}`);
         if (searchInput.value.length <= 0) {
             setSort(sortState);
@@ -921,7 +921,7 @@ try {
         searchInput.value = "";
         sortState++;
         if (sortState >= sortStates.length) {
-            sortState = 3;
+            sortState = 0;
         }
         input(sortState);
         setSort(sortState);
