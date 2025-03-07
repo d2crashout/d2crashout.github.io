@@ -1,6 +1,25 @@
 {
     "games": [
         {
+            "name": "burrito_bison",
+            "fName": "Burrito Bison",
+            "description": "A fun game where you play as a bison trying to destroy gummy bears.",
+            "image": "/assets/images/game_covers/burrito_bison.jpg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/darkness/games/burritobison/"
+            }
+            ],
+            "tags": [
+                "arcade",
+                "animal",
+                "classic",
+                "superhero"
+            ]
+        },
+        {
             "name": "a_dance_of_fire_and_ice",
             "fName": "A Dance of Fire and Ice",
             "description": "A fun game where you have to slice fruit and avoid bombs for points.",
@@ -10,7 +29,7 @@
                 {
                     "name": "CCPorted+",
                     "link": "https://arandomdev12.github.io/dfi/"
-                }
+            }
             ],
             "tags": [
                 "reaction",
