@@ -74,7 +74,6 @@ try {
     searchInput.value = "";
     window.gameRQPopupOpen = false;
     document.querySelector(".cards").classList.add("loading");
-
     async function importJSON(path) {
         let url;
         if (path.startsWith("/") && !path.startsWith("//")) {
@@ -407,7 +406,7 @@ try {
             cardsContainer.appendChild(card);
         });
     }
-    async function input(sortState = 0) {
+    async function input(sortState = 3) {
         log(`Searching for ${searchInput.value}`);
         if (searchInput.value.length <= 0) {
             setSort(sortState);
@@ -922,7 +921,7 @@ try {
         searchInput.value = "";
         sortState++;
         if (sortState >= sortStates.length) {
-            sortState = 0;
+            sortState = 3;
         }
         input(sortState);
         setSort(sortState);
