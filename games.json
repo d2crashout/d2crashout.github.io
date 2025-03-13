@@ -1,6 +1,24 @@
 {
     "games": [
         {
+            "name": "chess_review",
+            "fName": "Chess Review",
+            "description": "An easy way to review all of your chess games!",
+            "image": "/assets/images/game_covers/chess_review.jpeg",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "http://fact-problem.gl.at.ply.gg:58159"
+            }
+            ],
+            "tags": [
+                "classic",
+                "skill",
+                "strategy"
+            ]
+        },
+        {
             "name": "scratch_bedwars",
             "fName": "Scratch Bedwars",
             "description": "A fun remake of the popular Minecraft game bedwars.",
