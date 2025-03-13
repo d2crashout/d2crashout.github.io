@@ -1,6 +1,25 @@
 {
     "games": [
         {
+            "name": "scratch_bedwars",
+            "fName": "Scratch Bedwars",
+            "description": "A fun remake of the popular Minecraft game bedwars.",
+            "image": "/assets/images/game_covers/scratch_bedwars.webp",
+            "online": true,
+            "links": [
+                {
+                    "name": "CCPorted+",
+                    "link": "https://arandomdev12.github.io/scratch/bw"
+            }
+            ],
+            "tags": [
+                "classic",
+                "scratch",
+                "action",
+                "fighting"
+            ]
+        },
+        {
             "name": "burrito_bison",
             "fName": "Burrito Bison",
             "description": "A fun game where you play as a bison trying to destroy gummy bears.",
